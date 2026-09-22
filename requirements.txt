@@ -1,0 +1,12 @@
+fastapi
+python-multipart
+uvicorn[standard]
+python-dotenv
+pydantic
+PyJWT
+supabase
+pyodbc
+playwright
+beautifulsoup4
+openai
+google-genai
